@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{901D2F48-BE66-4AAF-A6E7-F04E34DE37AE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BindingTestProj/AppDelegate.cs">
+    <Files>
+      <File FileName="../BindingTest/BindingTest/AppDelegate.cs" Line="14" Column="4" />
+      <File FileName="BindingTestProj/Info.plist" />
+      <File FileName="BindingTestProj/AppDelegate.cs" Line="33" Column="1" />
+      <File FileName="JailbrokenBinding/Structs.cs" Line="8" Column="1" />
+      <File FileName="JailbrokenBinding/ApiDefinition.cs" Line="8" Column="27" />
+      <File FileName="JailbrokenBinding/Properties/AssemblyInfo.cs" Line="38" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Idrish/Projects/JailbrokenBinding/BindingTestProj/AppDelegate.cs" relfile="BindingTestProj/AppDelegate.cs" line="27" column="1" />
+      <Breakpoint file="/Users/Idrish/Projects/JailbrokenBinding/BindingTestProj/AppDelegate.cs" relfile="BindingTestProj/AppDelegate.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BindingTestProj PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1DF7F04E-3680-4DC1-9411-F0512C6A8689" />
+  <MultiItemStartupConfigurations />
+</Properties>

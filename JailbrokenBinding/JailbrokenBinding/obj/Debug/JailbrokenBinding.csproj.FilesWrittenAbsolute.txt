@@ -1,0 +1,5 @@
+/Users/Idrish/Projects/JailbrokenBinding/JailbrokenBinding/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Idrish/Projects/JailbrokenBinding/JailbrokenBinding/bin/Debug/JailbrokenBinding.pdb
+/Users/Idrish/Projects/JailbrokenBinding/JailbrokenBinding/bin/Debug/JailbrokenBinding.dll
+/Users/Idrish/Projects/JailbrokenBinding/JailbrokenBinding/obj/Debug/JailbrokenBinding.dll
+/Users/Idrish/Projects/JailbrokenBinding/JailbrokenBinding/obj/Debug/JailbrokenBinding.pdb

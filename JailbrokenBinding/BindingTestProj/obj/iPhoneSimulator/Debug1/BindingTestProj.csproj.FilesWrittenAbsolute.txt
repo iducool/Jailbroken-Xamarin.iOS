@@ -1,0 +1,11 @@
+/Users/Idrish/Projects/JailbrokenBinding/BindingTestProj/obj/iPhoneSimulator/Debug1/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Idrish/Projects/JailbrokenBinding/BindingTestProj/obj/iPhoneSimulator/Debug1/device-builds/iphone9.2-10.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/Idrish/Projects/JailbrokenBinding/BindingTestProj/obj/iPhoneSimulator/Debug1/device-builds/iphone9.2-10.1/actool/_PartialAppManifest.items
+/Users/Idrish/Projects/JailbrokenBinding/BindingTestProj/obj/iPhoneSimulator/Debug1/device-builds/iphone9.2-10.1/actool/_BundleResourceWithLogicalName.items
+/Users/Idrish/Projects/JailbrokenBinding/BindingTestProj/obj/iPhoneSimulator/Debug1/device-builds/iphone9.2-10.1/optimized/
+/Users/Idrish/Projects/JailbrokenBinding/BindingTestProj/bin/iPhoneSimulator/Debug1/BindingTestProj.pdb
+/Users/Idrish/Projects/JailbrokenBinding/BindingTestProj/bin/iPhoneSimulator/Debug1/BindingTestProj.exe
+/Users/Idrish/Projects/JailbrokenBinding/BindingTestProj/obj/iPhoneSimulator/Debug1/BindingTestProj.exe
+/Users/Idrish/Projects/JailbrokenBinding/BindingTestProj/obj/iPhoneSimulator/Debug1/BindingTestProj.pdb
+/Users/Idrish/Projects/JailbrokenBinding/BindingTestProj/bin/iPhoneSimulator/Debug1/JailbrokenBinding.dll
+/Users/Idrish/Projects/JailbrokenBinding/BindingTestProj/bin/iPhoneSimulator/Debug1/JailbrokenBinding.pdb
